@@ -31,7 +31,6 @@ void pickwords(){
     b=rand();
     b=b%a;
     answer=words[b];
-    cout << answer << endl;
 }
 int main(int argc, char* argv[])
 {
